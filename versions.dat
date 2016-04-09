@@ -1,0 +1,6 @@
+########################################################
+### Catalog of Automated Photometry Maker's versions ###
+########################################################
+APM_0.1 - number of frames inserted by hand, photometry similar to all.do script
+APM_0.2 - automatic number of frames from the list, photometry similar to all.do script
+APM_0.3 - gives percentage of the progress + 0.2

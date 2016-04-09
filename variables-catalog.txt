@@ -1,0 +1,9 @@
+######################################
+### Catalog of variables in apm.sh ###
+######################################
+FITS_FILE - file where list of fits files is being kept
+LINES - number of lines which translates into number of fits files
+CURR_LINE - current line which increments by 1 up to LINES
+
+FWHM - FWHM for daophot
+THRES - threshold for daophot
