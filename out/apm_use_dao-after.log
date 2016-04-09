@@ -1,0 +1,552 @@
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+          MN_Dra                                  
+
+                                      Picture size:   765  510
+
+ Command: 
+ File with parameter values (default KEYBOARD 
+                                            INPUT): 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ OPT>  OPT>  OPT>  OPT> 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     5.50         THRESHOLD (in sigmas) =     7.00
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -2.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+      File with aperture radii (default photo.opt): 
+  A1  RADIUS OF APERTURE  1 =     5.20     A2  RADIUS OF APERTURE  2 =     0.00
+  A3  RADIUS OF APERTURE  3 =     0.00     A4  RADIUS OF APERTURE  4 =     0.00
+  A5  RADIUS OF APERTURE  5 =     7.00     A6  RADIUS OF APERTURE  6 =     8.00
+  A7  RADIUS OF APERTURE  7 =    10.00     A8  RADIUS OF APERTURE  8 =    12.00
+  A9  RADIUS OF APERTURE  9 =    14.00     AA  RADIUS OF APERTURE 10 =    16.00
+  AB  RADIUS OF APERTURE 11 =    18.00     AC  RADIUS OF APERTURE 12 =    20.00
+  IS       INNER SKY RADIUS =    25.00     OS       OUTER SKY RADIUS =    45.00
+
+ PHO> 
+   File with the positions (default MNDra2001.coo):     File for the magnitudes (default MNDra2001.ap): 
+  Estimated magnitude limit (Aperture 1): 15.7 +- 0.1 per star.                  
+
+
+ Command: 
+            Input file name (default MNDra2001.ap):                        Desired number of PSF stars:           Output file name (default MNDra2001.lst): 
+         9 suitable candidates were found.
+
+
+ Command: 
+ File with aperture results (default MNDra2001.ap):        File with PSF stars (default MNDra2001.lst):           File for the PSF (default MNDra2001.psf): 
+    64 seems fine.
+    83 seems fine.
+     1 seems fine.
+    23 seems fine.
+    49 seems fine.
+   103 seems fine.
+   140 seems fine.
+    47 seems fine.
+    17 seems fine.
+
+
+    Chi     Parameters...
+  0.0912   2.22945   2.19578     
+
+
+ Profile errors:
+
+     64  0.082        1  0.089       49  0.087      140  0.107       17  0.083   
+     83  0.101       23  0.094      103  0.090       47  0.085                   
+
+
+
+ Output list of PSF stars  = MNDra2001.lst                 
+
+ This file already exists: MNDra2001.lst                 
+
+          New output file name (default OVERWRITE): 
+ This file already exists: psf                           
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2001.nei                 
+
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ File with aperture results (default 
+                                    MNDra2001.nei):        File with PSF stars (default MNDra2001.lst):           File for the PSF (default MNDra2001.psf): 
+ This file already exists: MNDra2001.psf                 
+
+          New output file name (default OVERWRITE): 
+    64 seems fine.
+    83 seems fine.
+     1 seems fine.
+    23 seems fine.
+    49 seems fine.
+   103 seems fine.
+   140 seems fine.
+    47 seems fine.
+    17 seems fine.
+
+
+    Chi     Parameters...
+  0.0912   2.22945   2.19578     
+
+
+ Profile errors:
+
+     64  0.082        1  0.089       49  0.087      140  0.107       17  0.083   
+     83  0.101       23  0.094      103  0.090       47  0.085                   
+
+
+
+ Output list of PSF stars  = MNDra2001.lst                 
+
+ This file already exists: MNDra2001.lst                 
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2001.nei                 
+
+ This file already exists: MNDra2001.nei                 
+
+          New output file name (default OVERWRITE): 
+ Command: 
+ File with aperture results (default 
+                                    MNDra2001.nei):        File with PSF stars (default MNDra2001.lst):           File for the PSF (default MNDra2001.psf): 
+ This file already exists: MNDra2001.psf                 
+
+          New output file name (default OVERWRITE): 
+    64 seems fine.
+    83 seems fine.
+     1 seems fine.
+    23 seems fine.
+    49 seems fine.
+   103 seems fine.
+   140 seems fine.
+    47 seems fine.
+    17 seems fine.
+
+
+    Chi     Parameters...
+  0.0912   2.22945   2.19578     
+
+
+ Profile errors:
+
+     64  0.082        1  0.089       49  0.087      140  0.107       17  0.083   
+     83  0.101       23  0.094      103  0.090       47  0.085                   
+
+
+
+ Output list of PSF stars  = MNDra2001.lst                 
+
+ This file already exists: MNDra2001.lst                 
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2001.nei                 
+
+ This file already exists: MNDra2001.nei                 
+
+          New output file name (default OVERWRITE): 
+ Command: 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+          MN_Dra                                  
+
+                                      Picture size:   765  510
+
+ Command: 
+ File with parameter values (default KEYBOARD 
+                                            INPUT): 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ OPT>  OPT>  OPT>  OPT> 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     5.50         THRESHOLD (in sigmas) =     7.00
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -2.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+      File with aperture radii (default photo.opt): 
+  A1  RADIUS OF APERTURE  1 =     5.20     A2  RADIUS OF APERTURE  2 =     0.00
+  A3  RADIUS OF APERTURE  3 =     0.00     A4  RADIUS OF APERTURE  4 =     0.00
+  A5  RADIUS OF APERTURE  5 =     7.00     A6  RADIUS OF APERTURE  6 =     8.00
+  A7  RADIUS OF APERTURE  7 =    10.00     A8  RADIUS OF APERTURE  8 =    12.00
+  A9  RADIUS OF APERTURE  9 =    14.00     AA  RADIUS OF APERTURE 10 =    16.00
+  AB  RADIUS OF APERTURE 11 =    18.00     AC  RADIUS OF APERTURE 12 =    20.00
+  IS       INNER SKY RADIUS =    25.00     OS       OUTER SKY RADIUS =    45.00
+
+ PHO> 
+   File with the positions (default MNDra2002.coo):     File for the magnitudes (default MNDra2002.ap): 
+  Estimated magnitude limit (Aperture 1): 15.8 +- 0.1 per star.                  
+
+
+ Command: 
+            Input file name (default MNDra2002.ap):                        Desired number of PSF stars:           Output file name (default MNDra2002.lst): 
+         9 suitable candidates were found.
+
+
+ Command: 
+ File with aperture results (default MNDra2002.ap):        File with PSF stars (default MNDra2002.lst):           File for the PSF (default MNDra2002.psf): 
+    71 seems fine.
+    94 seems fine.
+     1 seems fine.
+    25 seems fine.
+    54 seems fine.
+   116 seems fine.
+   156 seems fine.
+    52 seems fine.
+    18 seems fine.
+
+
+    Chi     Parameters...
+  0.0962   2.21956   2.07572     
+
+
+ Profile errors:
+
+     71  0.087        1  0.093       54  0.093      156  0.113       18  0.087   
+     94  0.108       25  0.098      116  0.094       52  0.088                   
+
+
+
+ Output list of PSF stars  = MNDra2002.lst                 
+
+ This file already exists: MNDra2002.lst                 
+
+          New output file name (default OVERWRITE): 
+ This file already exists: psf                           
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2002.nei                 
+
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ File with aperture results (default 
+                                    MNDra2002.nei):        File with PSF stars (default MNDra2002.lst):           File for the PSF (default MNDra2002.psf): 
+ This file already exists: MNDra2002.psf                 
+
+          New output file name (default OVERWRITE): 
+    71 seems fine.
+    94 seems fine.
+     1 seems fine.
+    25 seems fine.
+    54 seems fine.
+   116 seems fine.
+   156 seems fine.
+    52 seems fine.
+    18 seems fine.
+
+
+    Chi     Parameters...
+  0.0962   2.21954   2.07571     
+
+
+ Profile errors:
+
+     71  0.087        1  0.093       54  0.093      156  0.113       18  0.087   
+     94  0.108       25  0.098      116  0.094       52  0.088                   
+
+
+
+ Output list of PSF stars  = MNDra2002.lst                 
+
+ This file already exists: MNDra2002.lst                 
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2002.nei                 
+
+ This file already exists: MNDra2002.nei                 
+
+          New output file name (default OVERWRITE): 
+ Command: 
+ File with aperture results (default 
+                                    MNDra2002.nei):        File with PSF stars (default MNDra2002.lst):           File for the PSF (default MNDra2002.psf): 
+ This file already exists: MNDra2002.psf                 
+
+          New output file name (default OVERWRITE): 
+    71 seems fine.
+    94 seems fine.
+     1 seems fine.
+    25 seems fine.
+    54 seems fine.
+   116 seems fine.
+   156 seems fine.
+    52 seems fine.
+    18 seems fine.
+
+
+    Chi     Parameters...
+  0.0962   2.21954   2.07571     
+
+
+ Profile errors:
+
+     71  0.087        1  0.093       54  0.093      156  0.113       18  0.087   
+     94  0.108       25  0.098      116  0.094       52  0.088                   
+
+
+
+ Output list of PSF stars  = MNDra2002.lst                 
+
+ This file already exists: MNDra2002.lst                 
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2002.nei                 
+
+ This file already exists: MNDra2002.nei                 
+
+          New output file name (default OVERWRITE): 
+ Command: 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+          MN_Dra                                  
+
+                                      Picture size:   765  510
+
+ Command: 
+ File with parameter values (default KEYBOARD 
+                                            INPUT): 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ OPT>  OPT>  OPT>  OPT> 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     5.50         THRESHOLD (in sigmas) =     7.00
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -2.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+      File with aperture radii (default photo.opt): 
+  A1  RADIUS OF APERTURE  1 =     5.20     A2  RADIUS OF APERTURE  2 =     0.00
+  A3  RADIUS OF APERTURE  3 =     0.00     A4  RADIUS OF APERTURE  4 =     0.00
+  A5  RADIUS OF APERTURE  5 =     7.00     A6  RADIUS OF APERTURE  6 =     8.00
+  A7  RADIUS OF APERTURE  7 =    10.00     A8  RADIUS OF APERTURE  8 =    12.00
+  A9  RADIUS OF APERTURE  9 =    14.00     AA  RADIUS OF APERTURE 10 =    16.00
+  AB  RADIUS OF APERTURE 11 =    18.00     AC  RADIUS OF APERTURE 12 =    20.00
+  IS       INNER SKY RADIUS =    25.00     OS       OUTER SKY RADIUS =    45.00
+
+ PHO> 
+   File with the positions (default MNDra2003.coo):     File for the magnitudes (default MNDra2003.ap): 
+  Estimated magnitude limit (Aperture 1): 15.8 +- 0.1 per star.                  
+
+
+ Command: 
+            Input file name (default MNDra2003.ap):                        Desired number of PSF stars:           Output file name (default MNDra2003.lst): 
+         9 suitable candidates were found.
+
+
+ Command: 
+ File with aperture results (default MNDra2003.ap):        File with PSF stars (default MNDra2003.lst):           File for the PSF (default MNDra2003.psf): 
+    66 seems fine.
+    87 seems fine.
+     1 seems fine.
+    23 seems fine.
+    51 seems fine.
+   107 seems fine.
+   146 seems fine.
+    49 seems fine.
+    17 seems fine.
+
+
+    Chi     Parameters...
+  0.0839   2.32582   2.06113     
+
+
+ Profile errors:
+
+     66  0.074        1  0.080       51  0.083      146  0.096       17  0.082   
+     87  0.093       23  0.086      107  0.080       49  0.077                   
+
+
+
+ Output list of PSF stars  = MNDra2003.lst                 
+
+ This file already exists: MNDra2003.lst                 
+
+          New output file name (default OVERWRITE): 
+ This file already exists: psf                           
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2003.nei                 
+
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ Command: 
+ File with aperture results (default 
+                                    MNDra2003.nei):        File with PSF stars (default MNDra2003.lst):           File for the PSF (default MNDra2003.psf): 
+ This file already exists: MNDra2003.psf                 
+
+          New output file name (default OVERWRITE): 
+    66 seems fine.
+    87 seems fine.
+     1 seems fine.
+    23 seems fine.
+    51 seems fine.
+   107 seems fine.
+   146 seems fine.
+    49 seems fine.
+    17 seems fine.
+
+
+    Chi     Parameters...
+  0.0839   2.32584   2.06117     
+
+
+ Profile errors:
+
+     66  0.074        1  0.080       51  0.083      146  0.096       17  0.082   
+     87  0.093       23  0.086      107  0.080       49  0.077                   
+
+
+
+ Output list of PSF stars  = MNDra2003.lst                 
+
+ This file already exists: MNDra2003.lst                 
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2003.nei                 
+
+ This file already exists: MNDra2003.nei                 
+
+          New output file name (default OVERWRITE): 
+ Command: 
+ File with aperture results (default 
+                                    MNDra2003.nei):        File with PSF stars (default MNDra2003.lst):           File for the PSF (default MNDra2003.psf): 
+ This file already exists: MNDra2003.psf                 
+
+          New output file name (default OVERWRITE): 
+    66 seems fine.
+    87 seems fine.
+     1 seems fine.
+    23 seems fine.
+    51 seems fine.
+   107 seems fine.
+   146 seems fine.
+    49 seems fine.
+    17 seems fine.
+
+
+    Chi     Parameters...
+  0.0839   2.32584   2.06117     
+
+
+ Profile errors:
+
+     66  0.074        1  0.080       51  0.083      146  0.096       17  0.082   
+     87  0.093       23  0.086      107  0.080       49  0.077                   
+
+
+
+ Output list of PSF stars  = MNDra2003.lst                 
+
+ This file already exists: MNDra2003.lst                 
+
+          New output file name (default OVERWRITE): 
+ File with PSF stars' neighbors = MNDra2003.nei                 
+
+ This file already exists: MNDra2003.nei                 
+
+          New output file name (default OVERWRITE): 
+ Command: 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+

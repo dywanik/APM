@@ -1,0 +1,192 @@
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+          MN_Dra                                  
+
+                                      Picture size:   765  510
+
+ Command: 
+ File with parameter values (default KEYBOARD 
+                                            INPUT): 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ OPT>  OPT>  OPT>  OPT> 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     5.50         THRESHOLD (in sigmas) =     7.00
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -2.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+ Approximate sky value for this frame =   3213.5
+ Standard deviation of sky brightness =     39.87
+
+                       Relative error = 0.88
+
+                 Number of frames averaged, summed:     File for the positions (default MNDra2001.coo): 
+ 
+
+   146 stars.
+
+
+                           Are you happy with this? 
+ Your old threshold was    7.00 sigma =  267.19 ADU.
+
+                         New threshold (in sigmas):           Output file name (default MNDra2001.coo): 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+          MN_Dra                                  
+
+                                      Picture size:   765  510
+
+ Command: 
+ File with parameter values (default KEYBOARD 
+                                            INPUT): 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ OPT>  OPT>  OPT>  OPT> 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     5.50         THRESHOLD (in sigmas) =     7.00
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -2.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+ Approximate sky value for this frame =   2938.5
+ Standard deviation of sky brightness =     39.00
+
+                       Relative error = 0.88
+
+                 Number of frames averaged, summed:     File for the positions (default MNDra2002.coo): 
+ 
+
+   161 stars.
+
+
+                           Are you happy with this? 
+ Your old threshold was    7.00 sigma =  256.93 ADU.
+
+                         New threshold (in sigmas):           Output file name (default MNDra2002.coo): 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+          MN_Dra                                  
+
+                                      Picture size:   765  510
+
+ Command: 
+ File with parameter values (default KEYBOARD 
+                                            INPUT): 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ OPT>  OPT>  OPT>  OPT> 
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     5.50         THRESHOLD (in sigmas) =     7.00
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -2.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+ Approximate sky value for this frame =   2896.9
+ Standard deviation of sky brightness =     37.88
+
+                       Relative error = 0.88
+
+                 Number of frames averaged, summed:     File for the positions (default MNDra2003.coo): 
+ 
+
+   150 stars.
+
+
+                           Are you happy with this? 
+ Your old threshold was    7.00 sigma =  255.34 ADU.
+
+                         New threshold (in sigmas):           Output file name (default MNDra2003.coo): 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+

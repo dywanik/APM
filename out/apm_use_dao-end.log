@@ -1,0 +1,102 @@
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+
+              The following sorts are currently possible:
+
+           +/- 1  By increasing/decreasing star ID number
+
+           +/- 2  By increasing/decreasing  X  coordinate
+
+           +/- 3  By increasing/decreasing  Y  coordinate
+
+           +/- 4  By increasing/decreasing magnitude
+
+           +/- n  By increasing/decreasing OTHER (n <= 30)
+
+
+
+                                 Which do you want?                                    Input file name:           Output file name (default MNDra2001.srt):                   Do you want the stars renumbered? 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+
+              The following sorts are currently possible:
+
+           +/- 1  By increasing/decreasing star ID number
+
+           +/- 2  By increasing/decreasing  X  coordinate
+
+           +/- 3  By increasing/decreasing  Y  coordinate
+
+           +/- 4  By increasing/decreasing magnitude
+
+           +/- n  By increasing/decreasing OTHER (n <= 30)
+
+
+
+                                 Which do you want?                                    Input file name:           Output file name (default MNDra2002.srt):                   Do you want the stars renumbered? 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
+
+  READ NOISE (ADU; 1 frame) =    15.00        GAIN (e-/ADU; 1 frame) =     1.95
+ LOW GOOD DATUM (in sigmas) =    11.00      HIGH GOOD DATUM (in ADU) = 49900.00
+             FWHM OF OBJECT =     7.00         THRESHOLD (in sigmas) =     3.50
+  LS (LOW SHARPNESS CUTOFF) =     0.20    HS (HIGH SHARPNESS CUTOFF) =     1.00
+  LR (LOW ROUNDNESS CUTOFF) =    -1.00    HR (HIGH ROUNDNESS CUTOFF) =     1.00
+             WATCH PROGRESS =    -1.00                FITTING RADIUS =     5.20
+                 PSF RADIUS =    18.00                  VARIABLE PSF =     0.00
+ FRACTIONAL-PIXEL EXPANSION =     0.00            ANALYTIC MODEL PSF =     1.00
+  EXTRA PSF CLEANING PASSES =     0.00       USE SATURATED PSF STARS =     1.00
+       PERCENT ERROR (in %) =     0.75          PROFILE ERROR (in %) =     5.00
+
+ Command: 
+
+              The following sorts are currently possible:
+
+           +/- 1  By increasing/decreasing star ID number
+
+           +/- 2  By increasing/decreasing  X  coordinate
+
+           +/- 3  By increasing/decreasing  Y  coordinate
+
+           +/- 4  By increasing/decreasing magnitude
+
+           +/- n  By increasing/decreasing OTHER (n <= 30)
+
+
+
+                                 Which do you want?                                    Input file name:           Output file name (default MNDra2003.srt):                   Do you want the stars renumbered? 
+ Command: 
+ exception                                                                       
+
+ Good bye.
+
