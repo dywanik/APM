@@ -2,8 +2,8 @@
 
 clear
 echo "Working..."
-chmod 774 scripts/apm_*
-rm out/*.log
+chmod 774 apm_*
+# rm out/*.log
 # make catalogs for all files
 if [ ! -d "tmp" ]; then
   mkdir tmp
@@ -24,15 +24,16 @@ LINES=$(cat tmp/fits-list.dat | wc -l)
 
 for CURR_LINE in `seq 1 $LINES`; do
   PROGRESS=$((100*$CURR_LINE/$LINES))
-  clear
+#   clear
   echo "Working... "$PROGRESS"%"
   FITS_FILE=$(sed -n "${CURR_LINE}p" tmp/fits-list.dat)
   FWHM=5.5
   THRES=7.0
-  ./scripts/apm_use_dao-b4.do $FITS_FILE $FWHM $THRES
-  ./scripts/apm_use_dao-after.do $FITS_FILE $FWHM $THRES
-  ./scripts/apm_use_all.do $FITS_FILE
-  ./scripts/apm_use_dao-end.do $FITS_FILE
+#   ./scripts/apm_use_dao-b4.do $FITS_FILE $FWHM $THRES
+#   ./scripts/apm_use_dao-after.do $FITS_FILE $FWHM $THRES
+#   ./scripts/apm_use_all.do $FITS_FILE
+#   ./scripts/apm_use_dao-end.do $FITS_FILE
+  ./apm_search_4stars.sh $FITS_FILE.out $FITS_FILE.coo
 done
 
 # final clean up
